@@ -6,7 +6,9 @@ Type your TODO item in the text field in the time slot, then click the save butt
 # Citations 
 All code is original. Some concepts pulled from Stack Overflow.
 # Links
-Github : https://github.com/jaredbyrum/WorkDay-Schedule-Challenge
-Live URL : 
+Github : https://github.com/jaredbyrum/WorkDay-Schedule-Challenge/
+
+Live URL : https://jaredbyrum.github.io/WorkDay-Schedule-Challenge/
+
 # Preview 
 ![Screenshot (20)](https://github.com/jaredbyrum/WorkDay-Schedule-Challenge/assets/141647333/63077fd0-1bc0-46da-8e5b-5db0a50e5a3a)
